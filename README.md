@@ -1,4 +1,4 @@
-# Assets for Godot 3D Sanbox
+# Assets for Godot 3D Sandbox
 
 The assets I gave to my students to accompany the [Godot 3D Sandbox 2026](https://www.youtube.com/playlist?list=PLtRPVI70UloCA6pyagZYUeKs9nEPWAqIv) tutorial series on YouTube.
 
