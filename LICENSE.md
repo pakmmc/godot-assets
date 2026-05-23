@@ -1,4 +1,4 @@
-# Licenses of each asset
+# Licenses for each asset
 
 ## Characters/
 
@@ -41,7 +41,7 @@ I altered all Kenney assets to include the texture in the GLB file and to change
 
 | Asset | License | Provenance |
 |--|--|--|
-| All | CC-BY-4.0 | Images made and presented by me ([Mr McLeod](https://github.com/michaelmcleodnz)) during the [Godot 3D Sanbox](https://www.youtube.com/playlist?list=PLtRPVI70UloCA6pyagZYUeKs9nEPWAqIv) tutorial series to illustrate various concepts. |
+| All | CC-BY-4.0 | Images made and presented by me ([Mr McLeod](https://github.com/michaelmcleodnz)) during the [Godot 3D Sandbox](https://www.youtube.com/playlist?list=PLtRPVI70UloCA6pyagZYUeKs9nEPWAqIv) tutorial series to illustrate various concepts. |
 
 ## Vehicle/
 
