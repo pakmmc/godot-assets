@@ -28,7 +28,7 @@ I altered all Kenney assets to include the texture in the GLB file and to change
 
 | Asset | License | Provenance |
 |--|--|--|
-| Chest.glb, Coin.glb, Key.glb, Platform.glb, Tree.glb | CC0 (Public Domain) | Kenney [Platformer Kit](https://kenney.nl/assets/platformer-kit) |
+| Chest.glb, Coin.glb, Key.glb, Lock.glb, Platform.glb, Tree.glb | CC0 (Public Domain) | Kenney [Platformer Kit](https://kenney.nl/assets/platformer-kit) |
 | CoinSound.ogg | CC0 (Public Domain) | Kenney [Digital Audio](https://kenney.nl/assets/digital-audio), as `pepSound3.ogg` |
 | Goal.glb | CC0 (Public Domain) | Kenney [Toy Car Kit](https://kenney.nl/assets/toy-car-kit), as `gate-finish.glb` |
 | ~~BurningSound.glb~~ | ~~[Pixabay Content License](https://pixabay.com/service/license-summary)~~ | ~~Not included because Pixabay's license disallows redistribution.~~ Sound by [GregorQuendel](https://pixabay.com/users/gregorquendel-19912121/) available on [Pixabay](https://pixabay.com/sound-effects/nature-designed-fire-winds-swoosh-04-116788/). |
